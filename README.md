@@ -21,7 +21,7 @@
 4. On the bottom right corner of the screen, click the clipboard icon next to "ssh clone url". This will copy the git address for your fork.
 5. Open Terminal.app or Iterm2.app
 6. Type `cd to ~/dev/_class/01/mon`
-7. Type `git clone 11. `git clone git@github.com:theironyard-frontend-nashville/class-intro-to-pr.git` and press enter. This will clone your fork of the repository to this folder.
+7. Type `git clone git@github.com:theironyard-frontend-nashville/class-intro-to-pr.git` and press enter. This will clone your fork of the repository to this folder.
 
 ## Modify the README.md
 1. Open the README.md file in Atom and add your name under Students below.
